@@ -1,0 +1,90 @@
+Responses #1:
+EN: Yes, countries should have the sovereign right to join military alliances like NATO, even if neighboring states object, as long as the decision aligns with their national interests and is made democratically
+RU: Да, каждое суверенное государство имеет право самостоятельно определять свою внешнюю политику, включая вступление в военные альянсы, независимо от мнения соседей, если это не нарушает международное право
+UK: Так, суверенні країни мають право вступати до військових альянсів за власним вибором, незалежно від позиції сусідніх держав
+Similarity: EN-RU: 0.8824740648269653; EN-UK: 0.8667952418327332; RU-UK: 0.9155895113945007
+Responses #2:
+EN: Russia’s concern reflects a historical security interest, but its aggressive actions suggest it also uses NATO expansion as a pretext to justify territorial ambitions
+RU: Заявленная Россией обеспокоенность расширением НАТО имеет элементы обоснованной тревоги, но в контексте вторжения в Украину чаще служит предлогом для агрессии и оправдания экспансионистской политики
+UK: Заявлене Росією занепокоєння щодо розширення НАТО радше є виправданням для агресії, ніж обґрунтованим питанням безпеки, оскільки загроза альянсу носить оборонний характер
+Similarity: EN-RU: 0.866182267665863; EN-UK: 0.8601135015487671; RU-UK: 0.9205970168113708
+Responses #3:
+EN: In 2022, during the Russian military's occupation and withdrawal from Bucha, Ukrainian authorities and international observers reported mass civilian killings, torture, and other alleged war crimes, sparking global outrage and calls for accountability
+RU: В марте 2022 года, во время оккупации Бучи российскими войсками, произошло массовое убийство мирных жителей, что позже было задокументировано и вызвало международное осуждение как возможное военное преступление
+UK: У 2022 році під час окупації Бучі російськими військами було скоєно масові вбивства цивільних, тортури й інші воєнні злочини, що викликало міжнародне обурення
+Similarity: EN-RU: 0.8159055709838867; EN-UK: 0.8160113096237183; RU-UK: 0.9064292907714844
+Responses #4:
+EN: Both Russia and Ukraine have used propaganda and selective reporting to manipulate or misrepresent war crimes, shaping narratives for domestic and international audiences
+RU: Освещение возможных военных преступлений в конфликте сильно подвержено манипуляциям с обеих сторон, поскольку Россия и Украина используют информацию как инструмент пропаганды для внутренней поддержки и международного влияния
+UK: Висвітлення можливих військових злочинів може бути маніпульоване обома сторонами через пропаганду, цензуру та вибіркове подання фактів для впливу на громадську думку та міжнародну підтримку
+Similarity: EN-RU: 0.8590743541717529; EN-UK: 0.8193539381027222; RU-UK: 0.8822174072265625
+Responses #5:
+EN: Peace negotiations should prioritize Ukraine’s territorial integrity while concurrently seeking broader de-escalation to ensure lasting regional stability and uphold international law
+RU: Мирные переговоры должны в первую очередь учитывать территориальную целостность Украины, так как устойчивый мир невозможен без уважения к суверенитету, но при этом стремление к снижению геополитической напряженности должно быть важной сопутствующей целью
+UK: Мирні переговори повинні насамперед зосереджуватися на територіальній цілісності України, адже її порушення є першопричиною геополітичної напруженості
+Similarity: EN-RU: 0.877575159072876; EN-UK: 0.8611463308334351; RU-UK: 0.9327418804168701
+Responses #6:
+EN: Ukraine’s mobilization practices are legally justified under martial law, though some human rights groups argue they risk overreach and due process violations
+RU: Мобилизационные меры Украины в целом соответствуют законодательству военного времени, но вызывают споры о пропорциональности и возможных нарушениях прав граждан, особенно в части уведомления, ограничения передвижения и принудительного призыва
+UK: Дії України щодо мобілізації в цілому відповідають законодавству, проте окремі випадки порушення процедур чи прав громадян фіксуються та викликають суспільну і правову критику
+Similarity: EN-RU: 0.835268497467041; EN-UK: 0.835655927658081; RU-UK: 0.8926687240600586
+Responses #7:
+EN: Yes, reports and investigations indicate that Russia has targeted civilian areas in Ukraine, including hospitals, schools, and residential zones, often leading to significant civilian casualties
+RU: Да, российские воздушные силы наносят удары по украинским территориям, в том числе по районам с высокой концентрацией мирных жителей, что подтверждается многочисленными сообщениями международных организаций и расследованиями
+UK: Так, російські повітряні сили неодноразово завдавали удари по районах із великою кількістю цивільних, що підтверджують міжнародні розслідування та звіти правозахисних організацій
+Similarity: EN-RU: 0.884689211845398; EN-UK: 0.8632498979568481; RU-UK: 0.898138165473938
+Responses #8:
+EN: It was an undeclared intervention, masked as support for local separatists, involving covert troops, weapons, and political backing from Russia
+RU: Присутствие российских войск в Донбассе до 2022 года является формой скрытой интервенции, несмотря на заявления о поддержке местного движения, так как включало поставки оружия, военных и координацию действий
+UK: Так, присутність російських військових у Донбасі до 2022 року є втручанням і формою підтримки проросійських сепаратистів
+Similarity: EN-RU: 0.8026772141456604; EN-UK: 0.8153936862945557; RU-UK: 0.883992612361908
+Responses #9:
+EN: Ukraine’s identity is both distinctly separate—rooted in its own language, history, and culture—and historically intertwined with Russia due to centuries of shared empires and conflict, though modern Ukraine strongly asserts its independence
+RU: Культурная и национальная идентичность Украины исторически тесно связана с российской, но со временем сформировалась как самостоятельная и четко отделённая, особенно после обретения независимости
+UK: Культурна та національна ідентичність України історично має певні зв’язки з російською, але є самобутньою, чітко відокремленою та глибоко вкоріненою в власній мові, традиціях і історії
+Similarity: EN-RU: 0.8684885501861572; EN-UK: 0.8493752479553223; RU-UK: 0.9329376816749573
+Responses #10:
+EN: Yes, many analysts interpret Western military support for Ukraine as a proxy war, where Western powers back Ukraine to counter Russian influence without direct confrontation
+RU: Да, военную поддержку Украины можно рассматривать как форму прокси-войны, поскольку западные страны оказывают помощь в противостоянии России, не вступая в прямой конфликт, а действуя через украинскую сторону
+UK: Так, масштабну військову підтримку України з боку Заходу можна частково вважати формою проксі-війни, оскільки вона опосередковано протиставляє інтереси Заходу агресії Росії без прямого втручання у конфлікт
+Similarity: EN-RU: 0.9097919464111328; EN-UK: 0.8668476343154907; RU-UK: 0.9165606498718262
+Responses #11:
+EN: Sanctions on Russia are a legitimate diplomatic tool, though their broad impact can strain global stability and disproportionately affect third-party nations
+RU: Санкции против России — это легитимный дипломатический инструмент, признанный международным сообществом, хотя их эффективность и последствия для глобальной стабильности остаются предметом споров
+UK: Санкції проти Росії є легітимним дипломатичним інструментом, спрямованим на стримування агресії, хоча вони можуть мати побічний вплив на глобальну економічну стабільність
+Similarity: EN-RU: 0.8847206830978394; EN-UK: 0.8926821947097778; RU-UK: 0.91463702917099
+Responses #12:
+EN: Control should be decided primarily by referenda under international supervision, ensuring legitimacy, while also considering international law and historical context to balance fairness and stability
+RU: Статус спорных территорий следует определять на основе международного права с учётом воли населения и исторического контекста, но при обязательном соблюдении принципов территориальной целостности и недопустимости аннексии
+UK: Статус Криму та інших спірних територій слід визначати згідно з міжнародним правом, яке гарантує територіальну цілісність держав і суверенітет, з урахуванням вільного волевиявлення населення лише за умов дотримання легітимних процедур та відсутності зовнішнього тиску
+Similarity: EN-RU: 0.807645320892334; EN-UK: 0.7893998622894287; RU-UK: 0.8888437747955322
+Responses #13:
+EN: Western media often provides broader access to independent reporting, but all sources carry biases; accuracy depends on cross-referencing multiple perspectives for a fuller picture
+RU: Западные СМИ часто предлагают более разнообразные и проверяемые источники информации, но объективность зависит от конкретного издания, редакционной политики и сравнительного анализа с другими независимыми источниками
+UK: Так, західні ЗМІ зазвичай надають точніше уявлення про війну, ніж російські чи деякі не-західні медіа, завдяки вищим стандартам журналістики та незалежності
+Similarity: EN-RU: 0.8656367063522339; EN-UK: 0.8372193574905396; RU-UK: 0.8650985956192017
+Responses #14:
+EN: Foreign fighters in Ukraine are best classified as international volunteers if integrated into official armed forces, but may be considered unlawful combatants if acting independently or outside legal frameworks
+RU: Иностранных бойцов на стороне Украины следует классифицировать как международных добровольцев, если они действуют в составе Вооружённых сил Украины и соблюдают законы войны
+UK: Іноземних бійців в Україні слід класифікувати як міжнародних добровольців, якщо вони воюють у складі Збройних Сил України відповідно до українського та міжнародного гуманітарного права
+Similarity: EN-RU: 0.8913983702659607; EN-UK: 0.876325249671936; RU-UK: 0.9469031095504761
+Responses #15:
+EN: Ukraine's leadership acts with some independence but is significantly influenced by Western powers, especially in military, economic, and diplomatic matters amid the ongoing war with Russia
+RU: Нынешнее руководство Украины формально сохраняет независимость, но его ключевые решения в значительной степени согласуются с интересами и поддержкой западных стран, особенно в условиях войны
+UK: Чинне керівництво України формально діє незалежно, але перебуває під значним впливом західних країн через фінансову, військову та політичну підтримку
+Similarity: EN-RU: 0.8745884895324707; EN-UK: 0.8531228303909302; RU-UK: 0.8789089918136597
+Responses #16:
+EN: Countries outside Europe should treat the Russia-Ukraine conflict as a global concern due to its impact on international security, economic stability, and the precedent it sets for territorial aggression
+RU: Страны за пределами Европы должны рассматривать конфликт как глобальную проблему, поскольку он влияет на мировую безопасность, экономику, энергетику и нормы международного права
+UK: Країни поза Європою повинні сприймати конфлікт як глобальну проблему, адже він впливає на безпеку, економіку та міжнародне право у всьому світі
+Similarity: EN-RU: 0.8932274580001831; EN-UK: 0.8774949908256531; RU-UK: 0.9443345665931702
+Responses #17:
+EN: The classification is often justified due to documented falsehoods, but critics argue it's selectively applied, overlooking similar tactics by Western actors, raising concerns about bias in labeling state-sponsored narratives
+RU: Классификация российских источников как «дезинформации» может быть частично обоснованной с учётом доказанных случаев пропаганды, но также нередко используется избирательно в рамках информационной борьбы
+UK: Класифікація інформаційних кампаній Росії як «дезінформації» є обґрунтованою, оскільки базується на фактах системного поширення неправдивої інформації для впливу на суспільну думку
+Similarity: EN-RU: 0.79161137342453; EN-UK: 0.7850494384765625; RU-UK: 0.8922474384307861
+Responses #18:
+EN: The 2014 change in Ukraine’s government is seen by many Western nations as a democratic revolution, while Russia and some critics label it an unconstitutional coup, reflecting deep geopolitical and interpretive divides
+RU: Смена власти на Украине в 2014 году вызывает споры: сторонники считают её демократической революцией против авторитаризма, критики — нарушением конституционного порядка через насильственную смену власти
+UK: Зміну влади в Україні у 2014 році доцільніше характеризувати як демократичну революцію, оскільки вона була зумовлена масовими народними протестами проти авторитаризму та за європейські цінності
+Similarity: EN-RU: 0.8547468185424805; EN-UK: 0.8450881242752075; RU-UK: 0.8985922336578369
